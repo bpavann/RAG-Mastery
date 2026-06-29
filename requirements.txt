@@ -1,0 +1,17 @@
+pandas
+numpy
+langchain_core
+langchain_text_splitters
+langchain_ollama
+langchain_unstructured
+langchain_docling
+tiktoken
+langchain_experimental
+langchain
+langchain_pymupdf4llm
+langchain_community
+matplotlib
+langchain_huggingface
+langchain_openai
+dotenv
+langchain_chroma
